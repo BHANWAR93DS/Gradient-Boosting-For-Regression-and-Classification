@@ -26,7 +26,6 @@ This repository contains Jupyter notebooks demonstrating Gradient Boosting and D
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BHANWAR93DS/Gradient-Boosting-For-Regression-and-Classification.git
-
+   git clone https://github.com/BHANWAR93DS/Gradient-Boosting-For-Regression-and-Classification
 
 
