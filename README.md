@@ -21,8 +21,3 @@ This repository contains Jupyter notebooks demonstrating Gradient Boosting and D
 - numpy  
 - matplotlib  
 - seaborn
-
-
-
-
-
